@@ -1,9 +1,9 @@
 let phrases = [
- { text: 'Перестань смеяться над зп ТП БПП, начни учить тестировку и через 2 дня ты будешь работать тестировщиком!', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif'  },
+ { text: 'Перестань смеяться над своей зп, начни учить тестировку и через 2 дня ты будешь работать тестировщиком!', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif'  },
    'посмотреть скидки на авиабилеты',
-  { text: 'Перестань смеяться над зп ТП БПП, уходи в программирование', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
+  { text: 'Перестань смеяться над своей зп, уходи в программирование', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
   //'Юрий Дудь',
-  { text: 'просто уволься с тп бпп)', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
+  { text: 'просто уволься со своего завода)', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
  // { text: 'читать про зарплаты в Сан-Франциско', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
 //{ text: 'прочитать новости и ужаснуться в комментариях', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
 //{ text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
